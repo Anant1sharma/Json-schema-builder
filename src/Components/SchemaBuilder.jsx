@@ -143,7 +143,7 @@ function SchemaBuilder() {
         </Button>
       </Card>
 
-      {/* JSON Preview Card */}
+      
       <Card
         title="Live JSON Schema Preview"
         headStyle={{
