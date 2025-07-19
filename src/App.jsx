@@ -1,6 +1,6 @@
 import React from "react";
 import { Layout, Typography } from "antd";
-import SchemaBuilder from "./components/SchemaBuilder";
+import SchemaBuilder from "./Components/SchemaBuilder";
 
 const { Header, Content } = Layout;
 const { Title } = Typography;
