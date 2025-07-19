@@ -1,0 +1,39 @@
+body {
+  background-color: #1e1e2f;
+  color: #f5f5f5;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.ant-layout {
+  background: #1e1e2f !important;
+}
+
+.ant-card {
+  background-color: #2b2b3d !important;
+  border: 1px solid #f25c54;
+  color: #ffffff;
+}
+
+.ant-input,
+.ant-select-selector {
+  background-color: #39394e !important;
+  border-color: #f25c54 !important;
+  color: #ffffff !important;
+}
+
+.ant-btn {
+  background-color: #f25c54 !important;
+  border-color: #f25c54 !important;
+  color: white !important;
+}
+
+.ant-btn:hover {
+  background-color: #ff6b6b !important;
+  border-color: #ff6b6b !important;
+}
+
+body {
+  user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
